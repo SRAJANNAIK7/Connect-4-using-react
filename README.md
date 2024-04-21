@@ -18,6 +18,8 @@ The project is deployed on Netlify, a free hosting platform for static projects.
 
 Play the Game ("https://srajan-connect-4-react.netlify.app/")
 
+Feel free to contribute or provide feedback by opening an issue or pull request!
+
 # Output
 
 ![g1](https://github.com/SRAJANNAIK7/Connect-4-using-react/assets/105223888/a7b25c7e-ead8-45af-bdc4-144002a0ada3)
@@ -26,4 +28,3 @@ Play the Game ("https://srajan-connect-4-react.netlify.app/")
 
 ![g3](https://github.com/SRAJANNAIK7/Connect-4-using-react/assets/105223888/3fb811dd-903c-4357-949a-195f0a1c2111)
 
-Feel free to contribute or provide feedback by opening an issue or pull request!
